@@ -83,4 +83,7 @@ func main() {
 	clipboard.Write(clipboard.FmtText, []byte(data.Token))
 
 	fmt.Println("Your token has been copied to your clipboard")
+
+	fmt.Print("Press any key to continue . . . ")
+	fmt.Scanln()
 }
