@@ -1,3 +1,6 @@
+# Update
+No longer works because DuckDuckGo added captcha to prevent bots. Archiving.
+
 # DuckDuckGo-token-generator
 Simple app to generate a token for DuckDuckGo email protection
 
